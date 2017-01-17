@@ -4,7 +4,7 @@
 ## Resources
 * Skim [morgan docs]
 * Skim [cors docs]
-* Skim [dotenv docs
+* Skim [dotenv docs]
 
 ## Learning Objectives
 * Students will be able to use dotenv to configure env vars on their local dev environment
